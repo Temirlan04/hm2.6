@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">hm2.6</string>
+    <string name="NAME">Введите пароль</string>
+    <string name="NAME1">Войти</string>
+    <string name="PASSWORD">Забыл пароль?</string>
+    <string name="WHUTSUP">Нажми сюда</string>
+    <string name="вход">Вход</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="exit">Выполните вход или зарегистрируйтесь.</string>
+    <string name="email">Ввидите вашу почту</string>
+    <string name="pasword">Ввидите пароль</string>
+    <string name="up">Войти</string>
+    <string name="password">Забыли пароль?</string>
+    <string name="onclick">Нажми сюда</string>
+</resources>
